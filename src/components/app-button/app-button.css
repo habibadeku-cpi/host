@@ -1,0 +1,19 @@
+.app-button {
+    width: 200px;
+    height: 250px;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px rgb(45 45 33);
+    margin-right: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: lightyellow;
+    font-size: 1.2rem;
+    font-weight: bold;
+}
+
+.app-button:hover {
+    box-shadow: 4px 4px 4px 2px rgb(45, 45, 33);
+    background-color: antiquewhite;
+    cursor: pointer;
+}

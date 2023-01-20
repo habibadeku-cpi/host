@@ -1,0 +1,6 @@
+.apps-container {
+    display: flex;
+    justify-content: flex-start;
+    padding: 3rem;
+    flex-direction: row;
+  }
